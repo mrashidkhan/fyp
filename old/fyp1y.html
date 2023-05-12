@@ -1,0 +1,263 @@
+<head>
+	<title>Mohammad Ali Jinnah University - Final Year Projects</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+		}
+
+		.header {
+			background-color: #8B0000;
+			color: #fff;
+			display: flex;
+			align-items: center;
+			padding: 10px 20px;
+		}
+
+		.header h1 {
+			margin: 0;
+			font-size: 36px;
+			line-height: 1;
+		}
+
+		.header .logo {
+			flex-basis: 25%;
+		}
+
+		.header .logo img {
+			height: 130px;
+			width: 130px;
+			display: block;
+			margin: auto;
+		}
+
+		.header .heading {
+			flex-basis: 75%;
+			text-align: center;
+		}
+
+		.menu {
+			background-color: #f0f0f0;
+			padding: 10px 20px;
+		}
+
+		.menu ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		.menu>ul>li {
+			display: inline-block;
+			margin-right: 20px;
+			position: relative;
+		}
+
+		.menu>ul>li>a {
+			color: #333;
+			text-decoration: none;
+			font-weight: bold;
+			display: block;
+			padding: 10px;
+		}
+
+		.menu>ul>li>a:hover {
+			color: #8B0000;
+		}
+
+		.menu ul ul {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			background-color: #f0f0f0;
+			display: none;
+			padding: 10px 20px;
+			min-width: 200px;
+			z-index: 1;
+		}
+
+		.menu ul ul li {
+			display: block;
+			margin-right: 0;
+			position: relative;
+		}
+
+		.menu ul ul li a {
+			display: block;
+			padding: 10px 0;
+		}
+
+		.menu ul ul li a:hover {
+			color: #8B0000;
+		}
+
+		.content {
+			padding: 20px;
+		}
+
+		.project {
+			margin-bottom: 30px;
+		}
+
+		.project img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		.project h3 {
+			margin-top: 0;
+			font-size: 24px;
+			font-weight: normal;
+			margin-bottom: 10px;
+		}
+
+		.project p {
+			margin: 0;
+		}
+
+		.project .info {
+			margin-top: 10px;
+			display: flex;
+			align-items: center;
+		}
+
+		.project .info img {
+			height: 30px;
+			width: 30px;
+			margin-right: 10px;
+		}
+
+		.project .info p {
+			margin: 0;
+			font-weight: bold;
+			flex-basis: 100%;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container-fluid">
+		<!-- Header -->
+		<header>
+			<div class="row">
+				<div class="col-4">
+					<img src="maju.png" alt="MAJU logo" width="130" height="130">
+				</div>
+				<div class="col-8">
+					<h1 style="color: darkred;">Mohammad Ali Jinnah University</h1>
+					<h2 style="color: darkblue;">Final Year Projects</h2>
+				</div>
+			</div>
+			<!-- Navigation -->
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+					aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav">
+						<!-- Faculty of Computing -->
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownComputing" role="button"
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Faculty of Computing
+							</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdownComputing">
+								<!-- Computer Science Department -->
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdownCS" role="button"
+									data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Computer Science Department
+								</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdownCS">
+									<!-- BS(CS) Program -->
+									<a class="dropdown-item" href="#">BS(CS)</a>
+									<!-- BS(CE) Program -->
+									<a class="dropdown-item" href="#">BS(CE)</a>
+									<!-- MSCS Program -->
+									<a class="dropdown-item" href="#">MSCS</a>
+									<!-- MSCE Program -->
+									<a class="dropdown-item" href="#">MSCE</a>
+									<!-- PHD(CS) Program -->
+									<a class="dropdown-item" href="#">PHD(CS)</a>
+								</div>
+								<!-- Information Technology Department -->
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdownIT" role="button"
+									data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Information Technology Department
+								</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdownIT">
+									<!-- BS(IT) Program -->
+									<a class="dropdown-item" href="#">BS(IT)</a>
+									<!-- MS(IT) Program -->
+									<a class="dropdown-item" href="#">MS(IT)</a>
+									<!-- PHD(IT) Program -->
+									<a class="dropdown-item" href="#">PHD(IT)</a>
+								</div>
+							</div>
+						</li>
+						<!-- Faculty of Engineering -->
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownEngineering" role="button"
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Faculty of Engineering
+							</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdownEngineering">
+								<!-- Electrical and Computer Engineering Department -->
+								<a class="dropdown-item" href="#">Electrical and Computer Engineering Department</a>
+							</div>
+						</li>
+						<!-- Faculty of Business Administration -->
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+								data-bs-toggle="dropdown" aria-expanded="false">
+								Faculty of Business Administration
+							</a>
+							<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+								<!-- School of Business Administration -->
+								<li class="dropdown-submenu">
+									<a class="dropdown-item dropdown-toggle" href="#">School of Business
+										Administration</a>
+									<ul class="dropdown-menu">
+										<!-- BBA -->
+										<li><a class="dropdown-item" href="#">BBA</a></li>
+										<!-- MBA -->
+										<li><a class="dropdown-item" href="#">MBA</a></li>
+										<!-- MBA(3.5) -->
+										<li><a class="dropdown-item" href="#">MBA(3.5)</a></li>
+									</ul>
+								</li>
+								<!-- Department of Management Sciences -->
+								<li class="dropdown-submenu">
+									<a class="dropdown-item dropdown-toggle" href="#">Department of Management
+										Sciences</a>
+									<ul class="dropdown-menu">
+										<!-- BSCS -->
+										<li><a class="dropdown-item" href="#">BS Management Sciences</a></li>
+										<!-- BS(SE) -->
+										<li><a class="dropdown-item" href="#">BS Accounting and Finance</a></li>
+										<!-- MS(MS) -->
+										<li><a class="dropdown-item" href="#">MS Management Sciences</a></li>
+										<!-- MS(AS) -->
+										<li><a class="dropdown-item" href="#">MS Accounting and Finance</a></li>
+										<!-- PhD(MS) -->
+										<li><a class="dropdown-item" href="#">PhD Management Sciences</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<!-- Faculty of Life Sciences -->
+						<li class="nav-item">
+							<a class="nav-link" href="#">Faculty of Life Sciences</a>
+						</li>
+						<!-- Faculty of Social and Basic Sciences -->
+						<li class="nav-item">
+							<a class="nav-link" href="#">Faculty of Social and Basic Sciences</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+	</div>
+</body>
+</html>

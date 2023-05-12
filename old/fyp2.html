@@ -1,0 +1,196 @@
+<head>
+	<title>Mohammad Ali Jinnah University - Final Year Projects</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+		}
+
+		.header {
+			background-color: #8B0000;
+			color: #fff;
+			display: flex;
+			align-items: center;
+			padding: 10px 20px;
+		}
+
+		.header h1 {
+			margin: 0;
+			font-size: 36px;
+			line-height: 1;
+		}
+
+		.header .logo {
+			flex-basis: 25%;
+		}
+
+		.header .logo img {
+			height: 130px;
+			width: 130px;
+			display: block;
+			margin: auto;
+		}
+
+		.header .heading {
+			flex-basis: 75%;
+			text-align: center;
+		}
+
+		.menu {
+			background-color: #f0f0f0;
+			padding: 10px 20px;
+		}
+
+		.menu ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		.menu>ul>li {
+			display: inline-block;
+			margin-right: 20px;
+			position: relative;
+		}
+
+		.menu>ul>li>a {
+			color: #333;
+			text-decoration: none;
+			font-weight: bold;
+			display: block;
+			padding: 10px;
+		}
+
+		.menu>ul>li>a:hover {
+			color: #8B0000;
+		}
+
+		.menu ul ul {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			background-color: #f0f0f0;
+			display: none;
+			padding: 10px 20px;
+			min-width: 200px;
+			z-index: 1;
+		}
+
+		.menu ul ul li {
+			display: block;
+			margin-right: 0;
+			position: relative;
+		}
+
+		.menu ul ul li a {
+			display: block;
+			padding: 10px 0;
+		}
+
+		.menu ul ul li a:hover {
+			color: #8B0000;
+		}
+
+		.content {
+			padding: 20px;
+		}
+
+		.project {
+			margin-bottom: 30px;
+		}
+
+		.project img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		.project h3 {
+			margin-top: 0;
+			font-size: 24px;
+			font-weight: normal;
+			margin-bottom: 10px;
+		}
+
+		.project p {
+			margin: 0;
+		}
+
+		.project .info {
+			margin-top: 10px;
+			display: flex;
+			align-items: center;
+		}
+
+		.project .info img {
+			height: 30px;
+			width: 30px;
+			margin-right: 10px;
+		}
+
+		.project .info p {
+			margin: 0;
+			font-weight: bold;
+			flex-basis: 100%;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container-fluid">
+		<!-- Header -->
+		<header>
+			<div class="row">
+				<div class="col-4">
+					<img src="maju.png" alt="MAJU logo" width="130" height="130">
+				</div>
+				<div class="col-8">
+					<h1 style="color: darkred;">Mohammad Ali Jinnah University</h1>
+					<h2 style="color: darkblue;">Final Year Projects</h2>
+				</div>
+			</div>
+			<!-- Navigation -->
+			<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+							  
+				<!-- Toggler/collapsibe Button -->
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+				  <span class="navbar-toggler-icon"></span>
+				</button>
+			  
+				<!-- Navbar links -->
+				<div class="collapse navbar-collapse justify-content-between" id="collapsibleNavbar">
+				  <ul class="navbar-nav">
+					<!-- Faculty of Business Administration -->
+					<li class="nav-item dropdown">
+					  <a class="nav-link dropdown-toggle" href="#" id="navbardrop1" data-toggle="dropdown">
+						Faculty of Business Administration
+					  </a>
+					  <div class="dropdown-menu">
+						<a class="dropdown-item" href="#">SCHOOL OF BUSINESS ADMINISTRATION</a>
+						<a class="dropdown-item" href="#">DEPARTMENT OF MANAGEMENT SCIENCES</a>
+					  </div>
+					</li>
+			  
+					<!-- Faculty of Computing -->
+					<li class="nav-item dropdown">
+					  <a class="nav-link dropdown-toggle" href="#" id="navbardrop2" data-toggle="dropdown">
+						Faculty of Computing
+					  </a>
+					  <div class="dropdown-menu">
+						<a class="dropdown-item" href="#">COMPUTER SCIENCE DEPARTMENT</a>
+					  </div>
+					</li>
+				  </ul>
+			  
+				  <!-- Search form -->
+				  <form class="form-inline" action="#">
+					<input class="form-control mr-sm-2" type="text" placeholder="Search">
+					<button class="btn btn-success" type="submit">Search</button>
+				  </form>
+				</div>
+			  </nav>
+			  
+		</header>
+	</div>
+</body>
+</html>
