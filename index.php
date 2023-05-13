@@ -187,8 +187,8 @@
                         FACULTY OF BUSINESS ADMINISTRATION
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="dept_soba_sp21.php">SCHOOL OF BUSINESS ADMINISTRATION SP21 PROJECTS</a></li>
-                            <li><a class="dropdown-item" href="dept_soba_sp22.php">SCHOOL OF BUSINESS ADMINISTRATION SP22 PROJECTS</a></li>
+                            <li><a class="dropdown-item" href="dept_soba.php">SCHOOL OF BUSINESS ADMINISTRATION</a></li>
+                            <!-- <li><a class="dropdown-item" href="dept_soba_sp22.php">SCHOOL OF BUSINESS ADMINISTRATION SP22 PROJECTS</a></li> -->
                             <li><a class="dropdown-item" href="dept_doms.php">DEPARTMENT OF MANAGEMENT SCIENCES</a></li>
 
                     </ul>

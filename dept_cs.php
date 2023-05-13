@@ -107,17 +107,28 @@
     <div class="container text-center">
       <div class="row">
 
-        <form method="post">
+        <!-- <form method="post">
           <label for="semester">Select Semester:</label>
           <select id="semester" name="semester">
-            <!-- <option value="SP21">SP21</option> -->
+            <option value="SP21">SP21</option>
             <option value="SP22">SP22</option>
-            <!-- <option value="SP23">SP23</option> -->
+            
           </select>
           <input type="submit" value="Go">
-        </form>
-        <br> <br> 
-        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP22'; ?>
+        </form> -->
+        <form method="post">
+  <label for="semester">Select Semester:</label>
+  <select id="semester" name="semester">
+    <option value="SP21" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP21') echo 'selected'; ?>>SP21</option>
+    <option value="SP22" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
+    
+  </select>
+  <input type="submit" value="Go">
+</form>
+
+
+        <br> <br>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP21'; ?>
 
         <div class="col-12">
           <!-- HTML for tabbed interface -->
