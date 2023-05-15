@@ -51,7 +51,7 @@
                                 principles and practices through our Faculty of Business Administration.</p>
                             <div class="row centered">
                                                                
-                                <div class="col"><a href="dept_soba_sp22.php" class="btn btn-primary">View Projects</a> </div>
+                                <div class="col"><a href="dept_soba.php" class="btn btn-primary">View Projects</a> </div>
                                 
                             </div>
                         </div>

@@ -117,6 +117,22 @@
     <div class="container text-center">
       <div class="row">
 
+        <form method="post">
+          <label for="semester">Select Semester:</label>
+          <select id="semester" name="semester">
+            <option value="SP21"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP21') echo 'selected'; ?>>SP21</option>
+            <option value="SP22"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
+
+          </select>
+          <input type="submit" value="Go">
+        </form>
+
+
+        <br> <br>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP21'; ?>
+
         <div class="col-12">
           <!-- HTML for tabbed interface -->
           <div class="tabbed-interface">
@@ -127,15 +143,16 @@
             </ul>
             <div class="tab-content active" id="program1">
               <!-- Display projects for Program 1 -->
-              <?php include 'program_bba_sp21.php'; ?>
+              <?php include "program_bba_$semester.php"; ?>
             </div>
             <div class="tab-content" id="program2">
               <!-- Display projects for Program 2 -->
-              <?php include 'program_mba_sp21.php'; ?>
+              <?php include "program_mba_$semester.php"; ?>
             </div>
             <div class="tab-content" id="program3">
               <!-- Display projects for Program 3 -->
-              <?php include 'program_mba35_sp21.php'; ?>
+              
+              <?php include "program_mba35_$semester.php"; ?>
             </div>
 
           </div>
