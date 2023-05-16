@@ -139,7 +139,7 @@
             <ul class="tabs">
               <li><a href="#program1" class="active">BBA</a></li>
               <li><a href="#program2">MBA</a></li>
-              <!-- <li><a href="#program3">MBA 3.5</a></li> -->
+              
             </ul>
             <div class="tab-content active" id="program1">
               <!-- Display projects for Program 1 -->
@@ -149,11 +149,7 @@
               <!-- Display projects for Program 2 -->
               <?php include "program_mba_$semester.php"; ?>
             </div>
-            <div class="tab-content" id="program3">
-              <!-- Display projects for Program 3 -->
-              
-              <?php include "program_mba35_$semester.php"; ?>
-            </div>
+            
 
           </div>
         </div>
