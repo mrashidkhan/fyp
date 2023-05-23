@@ -33,7 +33,7 @@
             <div class="container text-center">
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -141,7 +141,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -224,7 +224,7 @@
 
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -315,7 +315,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -410,7 +410,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -520,7 +520,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -617,7 +617,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -711,7 +711,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -804,7 +804,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -888,7 +888,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -982,7 +982,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1093,7 +1093,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">

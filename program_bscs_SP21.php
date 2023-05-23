@@ -36,7 +36,7 @@
         <header>
             <div class="container text-center">
                 <div class="row mt-2 mb-2">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\01.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -117,7 +117,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\02.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -199,7 +199,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -293,7 +293,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\04.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -382,7 +382,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\05.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -481,7 +481,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\06.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -574,7 +574,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\07.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -664,7 +664,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\08.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -756,7 +756,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\09.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -842,7 +842,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\10.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -934,7 +934,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\11.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1030,7 +1030,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\12.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1125,7 +1125,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\13.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1226,7 +1226,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\14.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1321,7 +1321,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\15.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1409,7 +1409,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\16.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1502,7 +1502,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\18.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1592,7 +1592,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\19.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1691,7 +1691,7 @@
 
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\20.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1785,7 +1785,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\21.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1880,7 +1880,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\22.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -1971,7 +1971,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\23.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2072,7 +2072,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\24.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2176,7 +2176,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\25.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2272,7 +2272,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\26.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2352,7 +2352,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\27.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2448,7 +2448,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\28.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2540,7 +2540,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\29.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2633,7 +2633,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\30.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2734,7 +2734,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\31.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2841,7 +2841,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\32.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -2936,7 +2936,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\33.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3028,7 +3028,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\34.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3110,7 +3110,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\35.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3204,7 +3204,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\36.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3293,7 +3293,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\37.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3376,7 +3376,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\38.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3466,7 +3466,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\39.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3534,7 +3534,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\40.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3555,7 +3555,7 @@
                                     </div>
                                 </div>
 
-                                
+
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -3584,17 +3584,28 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">Teaching of The Quran is the most essential part of our life. Almost every Muslim once in his
-entire had read the Holy Quran in Arabic Language. Learning and teaching of Arabic is common in
-non-Arabs too. Without a teacher it is quite difficult to recite The Quran in an appropriate way
-and manner, so in this case here comes the Qari Profession. Almost every other day we heard
-about violence against the students studying in madrasa or in religious school now and then.
-Thousands of Madrasas in Pakistan are registered but on the other hand there are thousands unregistered too in which these cases happen. The project on which we are working will somehow
-create a positive impact in society by providing a platform that will help both the student and
-Qari. Help the Qari Financially and provide safe and sound way for students to get taught and
-satisfaction for their parents too. Features like, Find a Qari! And creating a profile. Privacy and
-security options for both the users are also available. This project is based service-oriented
-architecture.
+                                        <p class="card-text text-justify">Teaching of The Quran is the most essential
+                                            part of our life. Almost every Muslim once in his
+                                            entire had read the Holy Quran in Arabic Language. Learning and teaching of
+                                            Arabic is common in
+                                            non-Arabs too. Without a teacher it is quite difficult to recite The Quran
+                                            in an appropriate way
+                                            and manner, so in this case here comes the Qari Profession. Almost every
+                                            other day we heard
+                                            about violence against the students studying in madrasa or in religious
+                                            school now and then.
+                                            Thousands of Madrasas in Pakistan are registered but on the other hand there
+                                            are thousands unregistered too in which these cases happen. The project on
+                                            which we are working will somehow
+                                            create a positive impact in society by providing a platform that will help
+                                            both the student and
+                                            Qari. Help the Qari Financially and provide safe and sound way for students
+                                            to get taught and
+                                            satisfaction for their parents too. Features like, Find a Qari! And creating
+                                            a profile. Privacy and
+                                            security options for both the users are also available. This project is
+                                            based service-oriented
+                                            architecture.
                                         </p>
                                     </div>
                                 </div>
@@ -3611,7 +3622,7 @@ architecture.
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\bscs\sp22\41.png" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -3641,7 +3652,8 @@ architecture.
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
-                                        <h6 style="color: #112269; font-weight: bold;">Dr. Shaukat Wasi, Associate Dean, Faculty of Computing</h6>
+                                        <h6 style="color: #112269; font-weight: bold;">Dr. Shaukat Wasi, Associate Dean,
+                                            Faculty of Computing</h6>
                                         <h6 style="color: #112269;">(shaukat.wasi@jinnah.edu)</h6>
                                     </div>
                                 </div>
@@ -3660,29 +3672,51 @@ architecture.
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">Technology innovation is increasing day by day making it more miniature and more efficient to
-work to give the user a better experience but still if we compare mobile phones with computers
-are far better in performance. So, we can say there are many tasks that a computer can do better
-than mobile phones one of the tasks is managing data in hard drives. A mobile cannot provide
-you with the handling of the data in 1TB, but a computer can do that. The computer can manage
-the data, transfer, view, or even can manipulate it and have changes to it as the user wants it to
-be. But still, the most portable computers are laptops, which still requires a small bag to carry it.
-So, we are creating DIGI DRIVES. Our vision is to make a device that is running on a
-microcomputer, specialized for a single task of only data management, and is more portable,
-with a better outcome. We are going to innovate the hard drives so that they can be smarter. We
-are going to make digital hard drives that will not only provide you the portability but will also let
-you see your data on your hard drive that data can be transferred, viewed, and can be used as
-you want it to be, but it will surely make it more secure by having the security layers in it. The
-security layers will make sure that the data in that hard drive is encrypted with the user
-password to access only. Any of the devices that are connected to the smart hard drive through
-the micro-computer will be scanned to get rid of the malware, to prevent the device from any
-harm. There will be software in this digital hard drive that will provide the user an experience of
-better data management in just a small device that can be held as a tablet device providing more
-functionality and more features than both tablet and smartphone devices specializing in the only
-given one task of data management which will surely let the user carry it instead of carrying a
-device like a laptop which is double the price of that device and a multi-tasking device which user
-don’t want to have any problem in it. So, the better choice is to have a device with better
-features in a very small, easy to carry, and better working device.
+                                        <p class="card-text text-justify">Technology innovation is increasing day by day
+                                            making it more miniature and more efficient to
+                                            work to give the user a better experience but still if we compare mobile
+                                            phones with computers
+                                            are far better in performance. So, we can say there are many tasks that a
+                                            computer can do better
+                                            than mobile phones one of the tasks is managing data in hard drives. A
+                                            mobile cannot provide
+                                            you with the handling of the data in 1TB, but a computer can do that. The
+                                            computer can manage
+                                            the data, transfer, view, or even can manipulate it and have changes to it
+                                            as the user wants it to
+                                            be. But still, the most portable computers are laptops, which still requires
+                                            a small bag to carry it.
+                                            So, we are creating DIGI DRIVES. Our vision is to make a device that is
+                                            running on a
+                                            microcomputer, specialized for a single task of only data management, and is
+                                            more portable,
+                                            with a better outcome. We are going to innovate the hard drives so that they
+                                            can be smarter. We
+                                            are going to make digital hard drives that will not only provide you the
+                                            portability but will also let
+                                            you see your data on your hard drive that data can be transferred, viewed,
+                                            and can be used as
+                                            you want it to be, but it will surely make it more secure by having the
+                                            security layers in it. The
+                                            security layers will make sure that the data in that hard drive is encrypted
+                                            with the user
+                                            password to access only. Any of the devices that are connected to the smart
+                                            hard drive through
+                                            the micro-computer will be scanned to get rid of the malware, to prevent the
+                                            device from any
+                                            harm. There will be software in this digital hard drive that will provide
+                                            the user an experience of
+                                            better data management in just a small device that can be held as a tablet
+                                            device providing more
+                                            functionality and more features than both tablet and smartphone devices
+                                            specializing in the only
+                                            given one task of data management which will surely let the user carry it
+                                            instead of carrying a
+                                            device like a laptop which is double the price of that device and a
+                                            multi-tasking device which user
+                                            don’t want to have any problem in it. So, the better choice is to have a
+                                            device with better
+                                            features in a very small, easy to carry, and better working device.
 
 
                                         </p>

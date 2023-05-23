@@ -109,7 +109,7 @@
   <?php 
     $faculty = "Faculty of Business Administration";
     $department = "School of Business Administration";
-    $term = "fa21";
+    $term = "SP21";
     include 'navigation.php'; ?>
 
   <div class="container mt-4">
@@ -120,10 +120,10 @@
         <form method="post">
           <label for="semester">Select Semester:</label>
           <select id="semester" name="semester">
-            <option value="fa21"
-              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'fa21') echo 'selected'; ?>>FA21</option>
-            <option value="fa22"
-              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'fa22') echo 'selected'; ?>>FA22</option>
+            <option value="SP21"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP21') echo 'selected'; ?>>SP21</option>
+            <option value="SP22"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
 
           </select>
           <input type="submit" value="Go">
@@ -131,7 +131,7 @@
 
 
         <br> <br>
-        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'fa21'; ?>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP21'; ?>
 
         <div class="col-12">
           <!-- HTML for tabbed interface -->
@@ -151,6 +151,7 @@
             </div>
             <div class="tab-content" id="program3">
               <!-- Display projects for Program 3 -->
+
               <?php include "program_bsaf_$semester.php"; ?>
             </div>
 

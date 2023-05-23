@@ -36,7 +36,7 @@
         <header>
             <div class="container text-center">
                 <div class="row mt-2 mb-2">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\FA22-MCS-1.jpeg" class="card-img-top" alt="..."
                                 style="height: 100%;">
@@ -123,7 +123,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\MCS--2.jpeg" class="card-img-top" alt="..."
                                 style="height: 100%;">
@@ -221,7 +221,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\MCS--3.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -310,7 +310,7 @@
                 </div>
 
                 <div class="row mt-4 mb-4">
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\FA22-MCS-4.jpg" class="card-img-top" alt="..."
                                 style="height: 100%;">
@@ -405,7 +405,7 @@
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\MCS--5.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -486,8 +486,9 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                                        <h6 style="color: #112269;">Cloud, Learning Management Systems, Virtualization, E-Learning, Servers, Security,
-Compliance</h6>
+                                        <h6 style="color: #112269;">Cloud, Learning Management Systems, Virtualization,
+                                            E-Learning, Servers, Security,
+                                            Compliance</h6>
                                     </div>
                                 </div>
 
@@ -496,7 +497,7 @@ Compliance</h6>
 
                     </div>
 
-                    <div class="col-4">
+                    <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
                         <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <img src="foc\dcs\mcs\sp22\MCS--6.jpg" class="card-img-top" alt="..." style="height: 100%;">
 
@@ -551,16 +552,25 @@ Compliance</h6>
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">The web store SHOPHUB, our website, offers consumers a very customer-friendly platform to
-purchase and sell their goods. Our projects' strongest feature, which sets them apart from
-others, is their Area Wise (Market) Categorization. Because of this, customers perceive us as
-trustworthy. E-commerce between businesses and consumers is the most obvious business
-application of the World Wide Web. The main goal of this project is to provide an online
-marketplace where products and services may be sold. The online shopping application's
-completion is the project's aim. This initiative intends to provide customers of physical stores
-with the advantages of online buying. Using the internet and a website, it makes it possible to
-shop for items in a store from any location. For this, we are developing a website. In which we
-have three modules:
+                                        <p class="card-text text-justify">The web store SHOPHUB, our website, offers
+                                            consumers a very customer-friendly platform to
+                                            purchase and sell their goods. Our projects' strongest feature, which sets
+                                            them apart from
+                                            others, is their Area Wise (Market) Categorization. Because of this,
+                                            customers perceive us as
+                                            trustworthy. E-commerce between businesses and consumers is the most obvious
+                                            business
+                                            application of the World Wide Web. The main goal of this project is to
+                                            provide an online
+                                            marketplace where products and services may be sold. The online shopping
+                                            application's
+                                            completion is the project's aim. This initiative intends to provide
+                                            customers of physical stores
+                                            with the advantages of online buying. Using the internet and a website, it
+                                            makes it possible to
+                                            shop for items in a store from any location. For this, we are developing a
+                                            website. In which we
+                                            have three modules:
                                         </p>
                                     </div>
                                 </div>
@@ -568,8 +578,9 @@ have three modules:
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                                        <h6 style="color: #112269;">Online store, Online business, Ecommerce, Ecommerce website business, Areas
-Market Place</h6>
+                                        <h6 style="color: #112269;">Online store, Online business, Ecommerce, Ecommerce
+                                            website business, Areas
+                                            Market Place</h6>
                                     </div>
                                 </div>
                             </div>

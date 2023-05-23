@@ -32,343 +32,16 @@
         <header>
             <div class="container text-center">
 
-            <div class="row mt-2 mb-4">
-
-<div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-    <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
-        <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
-
-        <div class="card-body">
-            <h5 style="color: #D62C1F" class="card-title mb-3">Smart Warehousing : A case of Ismail
-                Industries Limited
-            </h5>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">SAAD-UR-REHMAN</h6>
-                    <h6 style="color: #112269;">FA19BBAP0034@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">AAMIR AZEEM</h6>
-                    <h6 style="color: #112269;">FA19BBAP0023@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">RAYAN AHMAD KHAN</h6>
-                    <h6 style="color: #112269;">FA19BBAP0022@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">Syed Arshad Hussain</h6>
-                    <h6 style="color: #112269;">(sarshad@jinnah.edu)</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Target Sector/Industry Name</h6>
-                    <h6 style="color: #112269;">FMCG Confectionery Industry</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 justified">
-                    <p class="card-text text-justify">
-
-                        The case of Ismail Industries is used to highlight the practices that should
-                        be adopted, with a special focus on highlighting gaps and improvement
-                        opportunities in the domain of storage management for the company’s in-house
-                        warehousing facility for its CandyLand and Bisconni factories located in Hub
-                        and Port Qasim. By highlighting these best practices, the paper aims to
-                        provide recommendations, following a detailed comparative analysis of
-                        related companies in the industry and the Fast-Moving Consumer Goods (FMCG)
-                        industry. This study shows the value of the advancement of Warehousing by
-                        assessing the current scenario and considers future predictions by including
-                        developing technologies. This case of ISMAIL INDUSTRIES LIMITED is used to
-                        highlight the practice that should be adopted with a specific focus on
-                        highlighting gaps and improvement opportunities in the domain. The aim is to
-                        provide recommendations and a detailed comparative analysis of related
-                        organizations in the industry and the Fast Moving Consumer Goods (FMCG)
-                        industry. Automation is required in any business and operations to make work
-                        more effective, reliable, and efficient than traditional operations in
-                        Pakistan and has significantly reduced the operation and maintenance cost of
-                        equipment. The main aim and purpose of the study is to find out why an
-                        organization is facing a specific problem in the scheduling and delivering
-                        process in the operation time. Reduce operation time & human involvement.
-                        Pre-Planning, automation in operation are the key aspects. Technology stays
-                        up-to-date with the latest technology and automation tools. The conceptual
-                        model used for this study was adapted with some modifications from previous
-                        studies. The study examines the role of Information Technology (IT)
-                        development with the aspect of time-saving cost-effectiveness and creating
-                        efficiency in Warehousing Management. This case study will cover the
-                        complete Warehousing procedure. This Study will help the warehousing
-                        organizations to take a step and start automating the operations so that
-                        they can get the advantage concerning time & cost saving. Warehousing is
-                        running very traditionally due to which we are facing a lot of issues. But
-                        it will become a complete end solution to their customers. Warehousing is
-                        continuously developing and more adoption and automation is required to
-                        fulfill the need of the increasing population.
-
-
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                    <h6 style="color: #112269;">Warehousing, Information Technology, FMCG</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-    <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
-        <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
-
-        <div class="card-body">
-            <h5 style="color: #D62C1F" class="card-title mb-3">Solutions to Accelerate sales at
-                commercial side of eternal
-                Group of Industries
-            </h5>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">FAHAD ALI KHAN</h6>
-                    <h6 style="color: #112269;">FA18MBAP0126@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">SHAIKH NOORUDIN YOUSUF</h6>
-                    <h6 style="color: #112269;">SP19MBAP0063@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">MUHAMMAD AMIN</h6>
-                    <h6 style="color: #112269;">FA17MBAP0028@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">Abdul Wahab Khan</h6>
-                    <h6 style="color: #112269;">(wahab.khan@jinnah.edu)</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Target Sector/Industry Name</h6>
-                    <h6 style="color: #112269;">Building Material Industry</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 justified">
-                    <p class="card-text text-justify">
-
-                        Eternal group of industries was established in 1978 as a trading group named
-                        Eternal trading group
-                        (ETG) they used to import yarn and manufacturing fabric in Pakistan,
-                        gradually shifted to apparel
-                        business and started exporting to USA and Canada. ETG has always been a
-                        quality conscious group,
-                        in the year 2003 their new generation entered the entity with vision of
-                        versatility and growth in the
-                        building material industry, started importing PPRC and PVC pipes & fittings
-                        on demand and supply,
-                        they achieved a first movers advantage by establishing their own state of
-                        the art manufacturing
-                        facility and started production at Sundar Industrial estate Lahore by the
-                        name of “Eternal Group Of
-                        Industries” thus graduation from distributors to manufacturer to accomplish
-                        their goals of providing
-                        quality solutions at affordable price.<br>
-                        This technology came and resolved every issue related to seepage and leakage
-                        (Provided proper
-                        installation was done) this technology PPR-C was based on heat fusion
-                        technology. A special kind
-                        of machine uses fusion technology, a special kind of machine is used for the
-                        pressure pipes and
-                        fitting. Once these pipes and fittings are installed, they can be tested by
-                        water pressure with on
-                        equipment. After the test is successful, the chances of leakage and seepage
-                        are completely eliminated
-                        (provided workmanship is done properly) Eternal group of industries
-                        initially started manufacturing
-                        Pipe Plus PPR-C pipes and fittings with great quality, economical prices,
-                        and global standards and
-                        based itself with best technology.
-
-
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                    <h6 style="color: #112269;">Building Material, Heat fusion Technology</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-    <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
-        <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
-
-        <div class="card-body">
-            <h5 style="color: #D62C1F" class="card-title mb-3">Feasibility Study on Rooftop Cattle
-                farming in Metropolitan
-                City of Karachi
-            </h5>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">ALI SHAH</h6>
-                    <h6 style="color: #112269;">SP18BBAH0021@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">MUHAMMAD WAQAS SHAFIQ</h6>
-                    <h6 style="color: #112269;">FA20BBAP0015@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">KARIM UL HASSAN</h6>
-                    <h6 style="color: #112269;">FA20BBAP0016@JINNAH.EDU.PK</h6>
-                </div>
-            </div>
-
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #112269; font-weight: bold;">Shahid Iqbal</h6>
-                    <h6 style="color: #112269;">(shahid.iqbal@jinnah.edu)</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Target Sector/Industry Name</h6>
-                    <h6 style="color: #112269;">Urban Cattle farming</h6>
-                </div>
-            </div>
-
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 justified">
-                    <p class="card-text text-justify">
-
-                        In cities around the world, food is turning into a basic luxury for the
-                        unfortunate and middle class
-                        people. Food supply chain system highly depends on extensive transpiration
-                        and high energy
-                        consuming procedures and requirement of making agricultural products
-                        available to consumers in
-                        urban areas. This means that in cities there are food supply chains highly
-                        dependent on resource
-                        imports. However modern cities are now converting into productive systems.
-                        Urban agriculture is
-                        on the rise and governments all around the world are devising new
-                        institutional policies and making
-                        changes to other policies so that all activities related to urban
-                        agriculture are recognized, managed
-                        and promoted. Urban farming is not something entirely new, rather it’s been
-                        around from centuries
-                        and in fact just like the cities themselves urban agriculture techniques are
-                        ancient as well. Number
-                        of benefits that can be achieved by utilizing households for food
-                        production. These benefits range
-                        from improved nutritional status of urban residents and their general health
-                        to improved savings and
-                        income. That is the reason that these activities can potentially lead to the
-                        development of assistance
-                        organizations and authorities that will include urban agriculture activities
-                        into the list of more
-                        sustainable and cost effective strategies.
-
-
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                    <h6 style="color: #112269;">Urban Agriculture, Food Supply Chain, Urban Farming
-                    </h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-</div>
-
-
-
-
                 <div class="row mt-2 mb-4">
+
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">ADAPTATION OF GREEN LOGISTICS FOR
-                                    SUSTAINABLE
-                                    ENVIRONMENTCOMPANY SOORTY ENTERPRISES</h5>
+                                    SUSTAINABLE ENVIRONMENTCOMPANY SOORTY ENTERPRISES
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -388,7 +61,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Dr. Muhammad Junaid</h6>
-                                        <h6 style="color: #112269;">muhammad.junaid@jinnah.edu</h6>
+                                        <h6 style="color: #112269;">(muhammad.junaid@jinnah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -406,54 +79,47 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">In today’s highly competitive world. Green
-                                            Logistics is gaining more attention. It is a vital role of
-                                            Supply Chain Management and plays an important part in the improvement of
-                                            shipping, logistics
-                                            activities and production. It serves as an enabler of growth in business and
-                                            trade in an economy
-                                            because it is a helpful ingredient for economic transactions. Logistics is
-                                            described as the process of
-                                            forecasting, executing, and controlling the efficient, economical flow of
-                                            goods and process inventory.
+                                        <p class="card-text text-justify">
+
+
+                                            In today’s highly competitive world. Green Logistics is gaining more
+                                            attention. It is a vital role of Supply Chain Management and plays an
+                                            important part in the improvement of shipping, logistics activities and
+                                            production. It serves as an enabler of growth in business and trade in an
+                                            economy because it is a helpful ingredient for economic transactions.
+                                            Logistics is described as the process of forecasting, executing, and
+                                            controlling the efficient, economical flow of goods and process inventory.
                                             However green logistics is eco-logistics which can measure the
-                                            sustainability of the industry and let
-                                            us know how the negative impact can be minimize by using the green
-                                            strategies. This paper tells us
-                                            about how we can adopt green logistics as an opportunity in an economy where
-                                            green logistics is
-                                            very rarely implemented. Soorty Enterprises which is a denim manufacturing
-                                            company if adopted
-                                            green logistics what benefits it will get from it. This paper analyses how
-                                            to take initiative for the
-                                            betterment of a sustainable environment.
+                                            sustainability of the industry and let us know how the negative impact can
+                                            be minimize by using the green strategies. This paper tells us about how we
+                                            can adopt green logistics as an opportunity in an economy where green
+                                            logistics is very rarely implemented. Soorty Enterprises which is a denim
+                                            manufacturing company if adopted green logistics what benefits it will get
+                                            from it. This paper analyses how to take initiative for the betterment of a
+                                            sustainable environment.
 
 
-                                        </p>
                                     </div>
                                 </div>
-
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                         <h6 style="color: #112269;">Green Logistics, Eco-logistics, sustainable
-                                            environment.
-                                        </h6>
+                                            environment.</h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">CHALLENGES FACED BY MAERSK DURING
-                                    COVID PANDEMIC</h5>
+                                    COVID PANDEMIC
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -461,6 +127,7 @@
                                         <h6 style="color: #112269;">FA20MBA0005@JINNAH.EDU.PK</h6>
                                     </div>
                                 </div>
+
 
 
 
@@ -473,7 +140,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Saheer Ali</h6>
-                                        <h6 style="color: #112269;">saheer.ali@jinnah.edu</h6>
+                                        <h6 style="color: #112269;">(saheer.ali@jinnah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -491,34 +158,28 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">Coronavirus (COVID-19) is an infectious
-                                            disease that is now causing havoc around the globe. It was
-                                            initially reported in December 2019 in the Chinese city of Wuhan. The
-                                            pandemic afflicted everyone,
-                                            causing a global crisis in all industries. With the COVID 19, businesses are
-                                            obliged to adapt and adjust
-                                            to the new normal in order to survive in the new environment. The Harvard
-                                            Business Review clarifies
-                                            how organizations that put resources into perceivability across their
-                                            worldwide groups and
-                                            organizations are better ready to react to disturbances, and how
-                                            perceivability ought to be reached
+                                        <p class="card-text text-justify">
+
+
+                                            Coronavirus (COVID-19) is an infectious disease that is now causing havoc
+                                            around the globe. It was initially reported in December 2019 in the Chinese
+                                            city of Wuhan. The pandemic afflicted everyone, causing a global crisis in
+                                            all industries. With the COVID 19, businesses are obliged to adapt and
+                                            adjust to the new normal in order to survive in the new environment. The
+                                            Harvard Business Review clarifies how organizations that put resources into
+                                            perceivability across their worldwide groups and organizations are better
+                                            ready to react to disturbances, and how perceivability ought to be reached
                                             out from one to two degrees (the provider) or more to successfully oversee
-                                            hazard, both by
-                                            decreasing the quantity of possible interruptions and expanding inventory
-                                            network versatility.
-                                            In order to compensate for a lack of supplier diversification, small
-                                            enterprises may rely on visibility.
+                                            hazard, both by decreasing the quantity of possible interruptions and
+                                            expanding inventory network versatility. In order to compensate for a lack
+                                            of supplier diversification, small enterprises may rely on visibility.
                                             Diversification of suppliers is not always possible for SMEs to mitigate the
-                                            risk of supply disruption.
-                                            Integrating a complete visibility solution into their supply chain is the
-                                            answer.
+                                            risk of supply disruption. Integrating a complete visibility solution into
+                                            their supply chain is the answer.
 
 
-                                        </p>
                                     </div>
                                 </div>
-
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
@@ -526,21 +187,19 @@
                                         </h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">MARKETING STRATEGY FOR LAUNCHING A
-                                    NEW PRODUCT
-                                    IN THE PHARMA INDUSTRY AND COMPARATIVE ANALYSIS
-                                    WORKING WITH INDUS PHARMA</h5>
+                                    NEW PRODUCT IN THE PHARMA INDUSTRY AND COMPARATIVE ANALYSIS WORKING WITH INDUS
+                                    PHARMA
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -560,7 +219,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Nadeem Ahmed</h6>
-                                        <h6 style="color: #112269;">nadeem.ahmed@jinnah.edu</h6>
+                                        <h6 style="color: #112269;">(nadeem.ahmed@jinnah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -578,32 +237,27 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">This study examines the impact on marketing
-                                            strategy for introducing a new product on prescribing
-                                            behavior in Pakistan pharmaceutical business. The purpose of this study is
-                                            to provide an integrative
-                                            approach to aid a pharmaceutical company decision-making process when
-                                            entering a new market or
+                                        <p class="card-text text-justify">
+
+                                            This study examines the impact on marketing strategy for introducing a new
+                                            product on prescribing behavior in Pakistan pharmaceutical business. The
+                                            purpose of this study is to provide an integrative approach to aid a
+                                            pharmaceutical company decision-making process when entering a new market or
                                             launching a new product in the pharmaceutical sector. The complexity of an
-                                            environment, as well as
-                                            the large number of components involved, points to the fact that standard
-                                            strategic management
-                                            methods and models are unable to properly analyze the market and develop a
-                                            successful strategy.
-                                            As a result, an integrated method is produced that can combine aspects from
-                                            many perspectives
-                                            through introduction of new ones. In this study Indus Pharma new market
-                                            center for the help of new
-                                            products Indus is the primary care vertical of the group actively involved
-                                            in the development,
-                                            manufacturing, and marketing of branded generic pharmaceutical products in
-                                            this category.
+                                            environment, as well as the large number of components involved, points to
+                                            the fact that standard strategic management methods and models are unable to
+                                            properly analyze the market and develop a successful strategy. As a result,
+                                            an integrated method is produced that can combine aspects from many
+                                            perspectives through introduction of new ones. In this study Indus Pharma
+                                            new market center for the help of new products Indus is the primary care
+                                            vertical of the group actively involved in the development, manufacturing,
+                                            and marketing of branded generic pharmaceutical products in this category.
                                             Hence, through this research we can learn the importance of marketing
-                                            strategy the launching of
-                                            new product and new product performance in Pharma industry and comparative
-                                            analysis same
-                                            nature brand in two different national and multinational companies.
-                                        </p>
+                                            strategy the launching of new product and new product performance in Pharma
+                                            industry and comparative analysis same nature brand in two different
+                                            national and multinational companies.
+
+
                                     </div>
                                 </div>
                                 <div class="row mb-3">
@@ -614,21 +268,27 @@
                                         </h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
+
+
+
+
+
                 </div>
 
+
                 <div class="row mt-2 mb-4">
+
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">TRANSFORMATION OF HR PROCESS BY
-                                    BURQUE
-                                    CORPORATION</h5>
+                                    BURQUE CORPORATION
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -648,7 +308,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Dr. Ghulam Muhammad</h6>
-                                        <h6 style="color: #112269;">gm@jinnah.edu</h6>
+                                        <h6 style="color: #112269;">(gm@jinnah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -666,61 +326,47 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">The distribution industry in Pakistan plays a
-                                            vital role for manufacturing business. The reason is that
-                                            the core function of any manufacturing company is to produce the best
-                                            quality products. And the
-                                            second important factor for the business is to deliver the produced goods to
-                                            the customer safely.
-                                            Here the importance of distributors is visible. The distributors make and
-                                            work on a strong route riding
-                                            model through which they deliver goods from the manufacturer to their
-                                            customers safely.
-                                            The case critically defines the real-life scenario of Burque Corporation. It
-                                            defines how the
-                                            organization faces problems in their existing process that create trouble
-                                            for the company. It also
-                                            defines that if the problem when highlighted is not solved at the right
-                                            moment it can create hurdles
-                                            for the organization. The real-life scenarios as discussed in this case help
-                                            the audience to learn and
-                                            gain practical knowledge from the findings. The case has tried to shed light
-                                            upon the initiatives that
-                                            were taken by the HR team to overcome the challenges. Also, the results of
-                                            those steps were focused
-                                            on identifying whether the initiatives that were taken were proved to be
-                                            fruitful for the company or
-                                            not. Further, the study also defines the period it took to overcome the
-                                            challenges.
+                                        <p class="card-text text-justify">
 
 
+                                            In today’s highly competitive world. Green Logistics is gaining more
+                                            attention. It is a vital role of Supply Chain Management and plays an
+                                            important part in the improvement of shipping, logistics activities and
+                                            production. It serves as an enabler of growth in business and trade in an
+                                            economy because it is a helpful ingredient for economic transactions.
+                                            Logistics is described as the process of forecasting, executing, and
+                                            controlling the efficient, economical flow of goods and process inventory.
+                                            However green logistics is eco-logistics which can measure the
+                                            sustainability of the industry and let us know how the negative impact can
+                                            be minimize by using the green strategies. This paper tells us about how we
+                                            can adopt green logistics as an opportunity in an economy where green
+                                            logistics is very rarely implemented. Soorty Enterprises which is a denim
+                                            manufacturing company if adopted green logistics what benefits it will get
+                                            from it. This paper analyses how to take initiative for the betterment of a
+                                            sustainable environment.
                                         </p>
+
                                     </div>
                                 </div>
-
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                         <h6 style="color: #112269;">Problem solving, time management, organizational
-                                            efficiency
-                                        </h6>
+                                            efficiency</h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">EFFECTIVE UTILIZATION OF INTELLECTUAL
-                                    CAPITAL CAN
-                                    CREATE VALUE IN BUSINESS OF LAL QILA RESTAURANT
-                                    KARACHI, PAKISTAN</h5>
+                                    CAPITAL CAN CREATE VALUE IN BUSINESS OF LAL QILA RESTAURANT KARACHI, PAKISTAN
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -728,6 +374,7 @@
                                         <h6 style="color: #112269;">FA20MBA0034@JINNAH.EDU.PK</h6>
                                     </div>
                                 </div>
+
 
 
 
@@ -740,7 +387,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Dr. Rana Tariq Mehmood</h6>
-                                        <h6 style="color: #112269;">tarique.mahmood@jinah.edu</h6>
+                                        <h6 style="color: #112269;">(tarique.mahmood@jinah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -758,65 +405,56 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">Lal Qila is a well-known restaurant located in
-                                            Karachi city having a good brand name in the restaurant
-                                            industry, especially in buffet restaurants. Lal Qila has maintained its
-                                            brand name by its ambiance,
-                                            having a traditional outlook, its values, and variety of food. Lal Qila is
-                                            striving continuously to achieve
-                                            its vision and to gain a good reputation and competitive place in the market
-                                            along with high profits.
-                                            The determination of conducting this project is to know about the current
-                                            practices, procedures, and
-                                            process flow of Lal Qila restaurant to analyze them in the context of
-                                            intellectual capital including
-                                            human capital, structural capital, and relational capital, and to identify
-                                            the gap and improvement
-                                            areas in these to work for its improvement to create value in the business
-                                            to achieve its vision and
-                                            goals. <br>
+                                        <p class="card-text text-justify">
+
+
+                                            Lal Qila is a well-known restaurant located in Karachi city having a good
+                                            brand name in the restaurant industry, especially in buffet restaurants. Lal
+                                            Qila has maintained its brand name by its ambiance, having a traditional
+                                            outlook, its values, and variety of food. Lal Qila is striving continuously
+                                            to achieve its vision and to gain a good reputation and competitive place in
+                                            the market along with high profits. The determination of conducting this
+                                            project is to know about the current practices, procedures, and process flow
+                                            of Lal Qila restaurant to analyze them in the context of intellectual
+                                            capital including human capital, structural capital, and relational capital,
+                                            and to identify the gap and improvement areas in these to work for its
+                                            improvement to create value in the business to achieve its vision and goals.
                                             This project is based on experiential learning. In this, I have worked in
-                                            Lal Qila restaurant with all its
-                                            departments to know their processes and procedures and to get the actual
-                                            insight of it. The reason
-                                            for selecting a method of experiential learning is to get deep insight,
-                                            understand and observe the
-                                            actual processes and its challenges in the daily operations of the
-                                            restaurant to get, examine and
-                                            analyze the collected information for better and effective results.<br>
+                                            Lal Qila restaurant with all its departments to know their processes and
+                                            procedures and to get the actual insight of it. The reason for selecting a
+                                            method of experiential learning is to get deep insight, understand and
+                                            observe the actual processes and its challenges in the daily operations of
+                                            the restaurant to get, examine and analyze the collected information for
+                                            better and effective results.<br>
                                             The findings of this project reveal that the Lal Qila restaurant is trying
-                                            its level best to achieve
-                                            excellence and now it is in a developing stage, and it is trying to adopt
-                                            best practices to improve the
-                                            overall performance of the organization. It is also found that Lal Qila is
-                                            using its ambiance of
+                                            its level best to achieve excellence and now it is in a developing stage,
+                                            and it is trying to adopt best practices to improve the overall performance
+                                            of the organization. It is also found that Lal Qila is using its ambiance of
                                             traditional look as a competitive advantage in the market.
 
 
-                                        </p>
                                     </div>
                                 </div>
-
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                         <h6 style="color: #112269;">reputation building, human capital, relational
-                                            capital.</h6>
+                                            capital.
+                                        </h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
-                            <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
+                            <!-- <img src="foc\dcs\bscs\sp22\03.png" class="card-img-top" alt="..." style="height: 100%;"> -->
 
                             <div class="card-body">
                                 <h5 style="color: #D62C1F" class="card-title mb-3">HOW TO SATISFY CUSTOMERS WITH SERVICE
-                                    CHARACTERISTICS IN SHIPPING INDUSTRY IN PAKISTAN</h5>
+                                    CHARACTERISTICS IN SHIPPING INDUSTRY IN PAKISTAN
+                                </h5>
 
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
@@ -836,7 +474,7 @@
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #112269; font-weight: bold;">Muhammad Wamiq</h6>
-                                        <h6 style="color: #112269;">m.wamiq@jinnah.edu</h6>
+                                        <h6 style="color: #112269;">(m.wamiq@jinnah.edu)</h6>
                                     </div>
                                 </div>
 
@@ -854,89 +492,78 @@
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 justified">
-                                        <p class="card-text text-justify">The services of a firm can be differentiated
-                                            from its competitor with the help of providing high quality
-                                            Services to the customers. Customer satisfaction has now become the central
-                                            to the shipping
-                                            industry because of growing competition that leads the business towards a
-                                            sustainable environment.
-                                            Some of the strategies can be adopted by these companies such as offering
-                                            differentiated or
-                                            providing low-cost services. In this way, the fierce competition among the
-                                            carriers will keep growing
-                                            in a healthy environment that advances the new trend which will help firms
-                                            to accomplish and be
-                                            distinct from the maritime carriers. The quality of shipping among the
-                                            Carriers can be measured
-                                            through their customer satisfaction. However, the question like service
-                                            quality of shipping exactly
-                                            captures the values and the needs through the potential and current shippers
-                                            are there are still
-                                            hidden facts that require form attention to have a true belief regarding all
-                                            those activities.<br>
-                                            In this report, the NVOCC company Oceanic Star Line has been discussed in a
-                                            wider term to extract
-                                            all its characteristics and weaknesses which can help the company to develop
-                                            its strategies and gain
-                                            competitiveness over the merging competitors in the same industry. Because
-                                            of the lethargic
-                                            economies and slowdown of investment, the productivity and revenue of the
-                                            company is declining
-                                            with the trend of covid-19 and some prevalent market condition which is
-                                            universal for everyone.
-                                            However, some internal weaknesses that are persistent like implementation of
-                                            digitized
-                                            Technologies and integration of services that are all in one package must be
-                                            implemented in OSL to
-                                            become the master in its field. Dynasty of logistics has tangled up in a
-                                            massive oversupply of vessels
-                                            and cumbersome regulations. Report of OECD identified that the requirement
-                                            of future vassals is
-                                            anticipated to become equal in 2030 that is the peak of vessel completion
-                                            (Dawn, 2021).<br>
-                                            This research report is divided into four sections; a detailed introduction
-                                            is given in the first section
-                                            which consists of the company’s intro, economic outlook, industry outlook,
-                                            pest analysis and its
-                                            background. The second section comprises literature review in which various
-                                            past literature on
-                                            logistics have been discussed in detail. The third section of this report
-                                            consists of the detailed
-                                            organizational analysis which is vital in every field to validate research
-                                            context in the required firm.
-                                            The fourth section consists of methodology and procedure in which a
-                                            systematic procedure solution
-                                            relevant to the OSL problem is discussed broadly. The fifty section reflects
-                                            the results of the proposed
-                                            solutions that are crucial for the company to improve its operation. The
-                                            sixth section manifests the
-                                            managerial usefulness of the provided solutions in the practical world and
-                                            suggestion is given to have
-                                            a better understanding of the required solution. The seventh and last
-                                            section consists of research
-                                            limitations that indicate some obstructed factors included in every research
-                                            report.
+                                        <p class="card-text text-justify">
 
-                                        </p>
+                                            The services of a firm can be differentiated from its competitor with the
+                                            help of providing high quality Services to the customers. Customer
+                                            satisfaction has now become the central to the shipping industry because of
+                                            growing competition that leads the business towards a sustainable
+                                            environment. Some of the strategies can be adopted by these companies such
+                                            as offering differentiated or providing low-cost services. In this way, the
+                                            fierce competition among the carriers will keep growing in a healthy
+                                            environment that advances the new trend which will help firms to accomplish
+                                            and be distinct from the maritime carriers. The quality of shipping among
+                                            the Carriers can be measured through their customer satisfaction. However,
+                                            the question like service quality of shipping exactly captures the values
+                                            and the needs through the potential and current shippers are there are still
+                                            hidden facts that require form attention to have a true belief regarding all
+                                            those activities.
+                                            In this report, the NVOCC company Oceanic Star Line has been discussed in a
+                                            wider term to extract all its characteristics and weaknesses which can help
+                                            the company to develop its strategies and gain competitiveness over the
+                                            merging competitors in the same industry. Because of the lethargic economies
+                                            and slowdown of investment, the productivity and revenue of the company is
+                                            declining with the trend of covid-19 and some prevalent market condition
+                                            which is universal for everyone. However, some internal weaknesses that are
+                                            persistent like implementation of digitized Technologies and integration of
+                                            services that are all in one package must be implemented in OSL to become
+                                            the master in its field. Dynasty of logistics has tangled up in a massive
+                                            oversupply of vessels and cumbersome regulations. Report of OECD identified
+                                            that the requirement of future vassals is anticipated to become equal in
+                                            2030 that is the peak of vessel completion (Dawn, 2021).
+                                            This research report is divided into four sections; a detailed introduction
+                                            is given in the first section which consists of the company’s intro,
+                                            economic outlook, industry outlook, pest analysis and its background. The
+                                            second section comprises literature review in which various past literature
+                                            on logistics have been discussed in detail. The third section of this report
+                                            consists of the detailed organizational analysis which is vital in every
+                                            field to validate research context in the required firm. The fourth section
+                                            consists of methodology and procedure in which a systematic procedure
+                                            solution relevant to the OSL problem is discussed broadly. The fifty section
+                                            reflects the results of the proposed solutions that are crucial for the
+                                            company to improve its operation. The sixth section manifests the managerial
+                                            usefulness of the provided solutions in the practical world and suggestion
+                                            is given to have a better understanding of the required solution. The
+                                            seventh and last section consists of research limitations that indicate some
+                                            obstructed factors included in every research report.
+
+
                                     </div>
                                 </div>
                                 <div class="row mb-3">
                                     <div class="col-12 text-center">
                                         <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                         <h6 style="color: #112269;">differentiated or providing low-cost services,
-                                            digitized Technologies, OSL problem</h6>
+                                            digitized Technologies, OSL problem
+                                        </h6>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
+
+
+
+
+
                 </div>
 
 
+                
+
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1049,7 +676,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1157,7 +784,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1257,7 +884,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1350,7 +977,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1440,7 +1067,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1537,7 +1164,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1638,7 +1265,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1740,7 +1367,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1859,7 +1486,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -1954,7 +1581,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2055,7 +1682,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2185,7 +1812,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2285,7 +1912,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2416,7 +2043,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2509,7 +2136,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2640,7 +2267,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2736,7 +2363,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2838,7 +2465,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -2934,7 +2561,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -3066,7 +2693,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -3216,7 +2843,7 @@
 
                 <div class="row mt-2 mb-4">
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="computing1.png" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -3338,7 +2965,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
@@ -3449,7 +3076,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12 mb-2">
-                        <div style="max-height: 100%; overflow-y: auto;" class="card p-2">
+                        <div style="max-height: 600px; overflow-y: auto;" class="card p-2">
                             <!-- <img src="foba.jpg" class="card-img-top" alt="..."> -->
 
                             <div class="card-body">
