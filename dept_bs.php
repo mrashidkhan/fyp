@@ -111,13 +111,13 @@
           <label for="semester">Select Semester:</label>
           <select id="semester" name="semester">
             <!-- <option value="SP21">SP21</option> -->
-            <option value="SP22">SP22</option>
+            <option value="FA22">FA22</option>
             <!-- <option value="SP23">SP23</option> -->
           </select>
           <input type="submit" value="Go">
         </form>
         <br> <br> 
-        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP22'; ?>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'FA22'; ?>
 
         <div class="col-12">
           <!-- HTML for tabbed interface -->

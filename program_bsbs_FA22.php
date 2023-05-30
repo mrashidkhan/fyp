@@ -199,18 +199,18 @@
                                 <div class="col-12 text-center">
                                     <!-- <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                     <h6 style="color: #112269;"> -->
-                                        <div class="row mb-3">
-                                            <div class="col-12 text-center">
-                                                <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                                                <h6 style="color: #112269;">Anemia,
-                                                    oximeter,
-                                                    hemoglobin kit,
-                                                    sphygmomanometer,
-                                                    Iron,
-                                                    dates,
-                                                    glucose kit </h6>
-                                            </div>
+                                    <div class="row mb-3">
+                                        <div class="col-12 text-center">
+                                            <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
+                                            <h6 style="color: #112269;">Anemia,
+                                                oximeter,
+                                                hemoglobin kit,
+                                                sphygmomanometer,
+                                                Iron,
+                                                dates,
+                                                glucose kit </h6>
                                         </div>
+                                    </div>
                                     </h6>
                                 </div>
                             </div>
@@ -497,18 +497,25 @@
                     <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
                             src="fols\dbs\bsbs\sp22\06.jpg" class="card-img-top" alt="..." style="height: 100%;">
                         <div class="card-body">
-                            <h5 style="color: #D62C1F" class="card-title mb-3">CLONING AND EXPRESSION OF GREEN
-                                FLUORESCENT PROTEIN IN ESCHERICHIA COLI BL21 (DE3) CELLS</h5>
+                            <h5 style="color: #D62C1F" class="card-title mb-3">BIOCHEMICAL ANALYSIS OF DIFFERENT MILK
+                                SAMPLES
+                                AVAILABLE IN KARACHI</h5>
                             <div class="row mb-3">
                                 <div class="col-12 text-center">
-                                    <h6 style="color: #112269; font-weight: bold;">Sadia Saleem</h6>
-                                    <h6 style="color: #112269;">FA19-BSBS-0005</h6>
+                                    <h6 style="color: #112269; font-weight: bold;">Ghazia Rizvi</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0004</h6>
                                 </div>
                             </div>
                             <div class="row mb-3">
                                 <div class="col-12 text-center">
-                                    <h6 style="color: #112269; font-weight: bold;">Yamna Hassan</h6>
-                                    <h6 style="color: #112269;">SP19-BSBS-0031</h6>
+                                    <h6 style="color: #112269; font-weight: bold;">Anosha Altaf</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0006</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Fizza Khalid</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0033</h6>
                                 </div>
                             </div>
                             <div class="row mb-3">
@@ -518,8 +525,8 @@
                             </div>
                             <div class="row mb-3">
                                 <div class="col-12 text-center">
-                                    <h6 style="color: #112269; font-weight: bold;">Bushra Bilal</h6>
-                                    <h6 style="color: #112269;">(Bushra.bilal@jinnah.edu)</h6>
+                                    <h6 style="color: #112269; font-weight: bold;">Anam Tariq</h6>
+                                    <h6 style="color: #112269;">(anam.tariq@jinnah.edu)</h6>
                                 </div>
                             </div>
                             <div class="row mb-3">
@@ -529,42 +536,353 @@
                             </div>
                             <div class="row mb-3">
                                 <div class="col-12 justified">
-                                    <p class="card-text text-justify">Green Florence protein (GFP) is a luminous protein
-                                        in the Jellyfish (Aequorea Victoria). GFP is known for its unique character of
-                                        emitting the green color light when it comes in the contact with the Blue UV
-                                        range light. In this project,
-                                        we have cloned the gene present for the GFP and transferred it in to the
-                                        competent cell of the BL21 strain of bacteria E. coli (Escherichia coli).
-                                        Initially,
-                                        we grew the BL21 using the LB Broth (Luria Bertani) further in SOB broth (Super
-                                        Optimal Broth) to get the sufficient amount of the cells for transformation.
-                                        Then,
-                                        for getting the competent cell we treated the bacterial cell with CaCl2 and
-                                        MgCl2. we inserted the plasmid containing the ligated gene of GFP and
-                                        transformed the bacteria using the heat shock method for cloning. Later,
-                                        the transformed colonies were grown in the SOC media containing the antibiotics
-                                        to remove contaminations. This study can be used for the applied biology.
-                                        Specially,
-                                        in the field of health biotechnology GFP protein can be used for imaging the
-                                        whole organism,
-                                        protein fusion,
-                                        or for gene expression studies or can be used for tagging different
-                                        protein-based products. </p>
+                                    <p class="card-text text-justify">The impact of milk on human health is
+                                        qualitatively relevant and is therefore a subject of
+                                        investigation. A comparative analysis was made between 25 fresh buffalo milk
+                                        samples, regarded
+                                        as S (S1 – S25), these milk samples were collected from different locations of
+                                        District Karachi,
+                                        Pakistan and 6 tetra pack milk samples of different brands, regarded as B (B1 –
+                                        B6), collected from
+                                        local markets and supermarket stores. For a comparative analysis, Biochemical
+                                        tests were
+                                        performed to determine the presence of various possible adulterants in both milk
+                                        types. Biochemical
+                                        tests include detection of urea, pulverized soap, salt, starch, sugar, formalin,
+                                        skim. milk, catalase,
+                                        and acidity% or lactic acid% (LA%). A positive and negative control was made on.
+                                        ultimate pure fresh buffalo milk for each test. Analysis of results was done on
+                                        the appearance of
+                                        intensity of colors in each test. Urea, Sugar, formalin and skim milk were
+                                        highly detected in tetra
+                                        pack milk samples whereas no or non-distinctive detection was made in fresh milk
+                                        samples. LA%
+                                        determines the bacterial load in the milk, value more than 0.14 is not
+                                        considered as a healthy LA%.
+                                        The LA% of all 6 tetra packs was more than 0.14% and only 6 out of 25 fresh milk
+                                        samples gives
+                                        reading in that limit otherwise the rest 20 samples were in the safe limit (0.12
+                                        – 0.14%).
+                                        The presence of salt (specifically chlorides) was checked, and ambiguous results
+                                        were obtained.
+                                        The detection of remaining tests; starch, catalase and pulverized soap was
+                                        negative in all fresh milk
+                                        and tetra pack milk samples. It was concluded from the present study that raw
+                                        buffalo milk is better
+                                        than tetra pack milk as it is highly adulterated with different hazardous
+                                        chemicals which may cause
+                                        serious health issues.
                                 </div>
                             </div>
                             <div class="row mb-3">
                                 <div class="col-12 text-center">
                                     <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
-                                    <h6 style="color: #112269;">Green Florence protein (GFP),
-                                        Cloning,
-                                        Transformation of E. coli,
-                                        Aequorea Victoria</h6>
+                                    <h6 style="color: #112269;">milk analysis, buffalo milk, different brands,
+                                        adulteration test.</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+
+            <div class="row mt-4 mb-4">
+                <div class="col-4">
+                    <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
+                            src="fols\dbs\bsbs\sp22\04.jpg" class="card-img-top" alt="..." style="height: 100%;">
+                        <div class="card-body">
+                            <h5 style="color: #D62C1F" class="card-title mb-3">DETERMINATION OF MYCOTOXINS IN FOOD
+                                CONDIMENTS BY THE ELISA METHOD</h5>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Aisha Ahmed</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0024</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Hafsa Nazir</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0036</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Rimal Rafiq</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0012</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Sara Riaz</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0020</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Qandeel Laraib</h6>
+                                    <h6 style="color: #112269;">(qandeel.laraib@jinnah.edu)</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 justified">
+                                    <p class="card-text text-justify">Fungi being an intrinsic constituent of the earth
+                                        cause contamination in many food stuffs including food condiments among these
+                                        fungi are the Aflatoxigenic fungi,
+                                        Aflatoxins are considered as the most poisonous mycotoxin that is produced by
+                                        Aspergillus flavus and Aspergillus parasiticus. Exposure to Aflatoxins can lead
+                                        to aflatoxicosis which can be life threatening as it could damage the liver,
+                                        Aflatoxins are found to be mutagenic as well,
+                                        that is they can damage the DNA and is carcinogen in animals and humans.
+                                        Aflatoxin is so harmful that WHO has grouped it into group 1 carcinogen.
+                                        Considering these aspects,
+                                        this study was designed to investigate the presence of Aflatoxigenic fungi food
+                                        condiments sold in Karachi,
+                                        Pakistan. Many samples (local and branded) of many different categories of food
+                                        condiments including Ketchup,
+                                        Spices and Vinegar are collected. After serial dilutions the samples were spread
+                                        on Sabouraud’s dextrose agar and incubated for 7 days at room temperature. The
+                                        fungal colonies which appeared were then identified on the basis of microscopic
+                                        (using lacto phenol cotton blue stain) and macroscopic features,
+                                        and then preserved using spore suspension method. The preserved fungal isolates
+                                        were screened for the presence of Aflatoxigenic fungal strains using cultural
+                                        technique (Ammonium hydroxide vapor test) and further quantitative analysis was
+                                        carried out by ELISA technique and the results contained aflatoxin levels of
+                                        4.437 ppb in Vinegar,
+                                        2.982 ppb in ketchup,
+                                        and 24.053 ppb in Black pepper. Further the biocontrol of aflatoxin was designed
+                                        using Calocybe indica by providing different natural conditions like carbon
+                                        source,
+                                        temperature,
+                                        and pH. </p>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
+                                    <h6 style="color: #112269;">Aflatoxin,
+                                        Food Condiments,
+                                        Sabouraud’s dextrose agar,
+                                        Lacto-phenol cotton blue stain,
+                                        Ammonium Hydroxide test </h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
+                            src="fols\dbs\bsbs\sp22\05.jpg" class="card-img-top" alt="..." style="height: 100%;">
+                        <div class="card-body">
+                            <h5 style="color: #D62C1F" class="card-title mb-3">DETERMINATION OF HEMOLYTIC/ANTI-HEMOLYTIC
+                                AND PHOSPHOLIPASE/ANTI-PHOSPHOLIPASE ENZYMATIC POTENTIAL IN FRUITS,
+                                VEGETABLES AND SPICES AVAILABLE IN PAKISTAN</h5>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Ayesha Saleem</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0040</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Munazza Bibi</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0022</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Sabahat Jawed</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0038</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Mehtab Alam</h6>
+                                    <h6 style="color: #112269;">(mehtab.alam@jinnah.edu)</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 justified">
+                                    <p class="card-text text-justify">Fruits,
+                                        vegetables and spices are a rich source of proteins,
+                                        minerals and vitamins. Many biological activities have been reported for fruits,
+                                        vegetables and spices but less attention has been paid to their biological
+                                        activity like hemolytic activity and phospholipase activity. Phospholipase
+                                        enzyme is involved in lipid metabolism and other cellular functions along with
+                                        their phospholipase activity. Phospholipase enzyme plays an important role in
+                                        signal transduction,
+                                        digestion of metabolites in humans,
+                                        production of lipid mediators,
+                                        physiology,
+                                        and meal consumption. Phospholipase enzymes are used in industrial applications
+                                        such as: oil refining,
+                                        dairy,
+                                        baking,
+                                        and health food industries. Phospholipase C (PLC) and Phospholipase D (PLD) are
+                                        chiefly used for pharmaceutical,
+                                        medical and analytical purposes. Anti-Phospholipase (PLA2 inhibitors) is used to
+                                        treat conditions associated with excessive platelet production and aggregation
+                                        of platelets such as peripheral vascular disease,
+                                        cancer,
+                                        and asthma. Anti-hemolytic compounds are found in various vegetables,
+                                        fruits and plants such as green tea,
+                                        safflower and mulberry. Anti-hemolytic compounds are used in different disease
+                                        management like malaria. The fruits (banana,
+                                        cherry, avocado and dates),
+                                        vegetables (ginger, garlic) and spices (turmeric, cloves, black pepper, nigella
+                                        seeds) were used to determine the hemolytic and phospholipase activity by radial
+                                        diffusion assay,
+                                        with the help of making their crude extract. It was found that banana,
+                                        cherry,
+                                        cloves and turmeric have phospholipase activity,
+                                        while other extracts do not contain phospholipase activity. Hemolytic activity
+                                        was found only in ginger extract. Antibacterial and antifungal activity of the
+                                        extracts was determined by Nutrient broth agar and Sabouraud Dextrose broth
+                                        (SDB) media,
+                                        respectively by radial diffusion assay. As shown in results,
+                                        antifungal activity was found in 4 extracts (banana, cherry, turmeric and
+                                        cloves) while antibacterial activity was found only in clove extract. We have
+                                        made an ointment for oily skin type from natural products (fruits and spice’s
+                                        extracts),
+                                        which has an ability to eliminate oily look and feel. Anti-bacterial and
+                                        anti-fungal bandages are also prepared from natural products (fruits and spice’s
+                                        extracts). </p>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
+                                    <h6 style="color: #112269;">Hemolytic activity,
+                                        phospholipase activity,
+                                        extracts,
+                                        meal consumption,
+                                        aggregation,
+                                        platelet,
+                                        radial diffusion assay,
+                                        antibacterial activity,
+                                        antifungal activity,
+                                        nutrient broth,
+                                        Sabouraud Dextrose broth,
+                                        ointment</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
+                            src="fols\dbs\bsbs\sp22\06.jpg" class="card-img-top" alt="..." style="height: 100%;">
+                        <div class="card-body">
+                            <h5 style="color: #D62C1F" class="card-title mb-3">BIOCHEMICAL ANALYSIS OF DIFFERENT MILK
+                                SAMPLES
+                                AVAILABLE IN KARACHI</h5>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Ghazia Rizvi</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0004</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Anosha Altaf</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0006</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Fizza Khalid</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0033</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Anam Tariq</h6>
+                                    <h6 style="color: #112269;">(anam.tariq@jinnah.edu)</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 justified">
+                                    <p class="card-text text-justify">The impact of milk on human health is
+                                        qualitatively relevant and is therefore a subject of
+                                        investigation. A comparative analysis was made between 25 fresh buffalo milk
+                                        samples, regarded
+                                        as S (S1 – S25), these milk samples were collected from different locations of
+                                        District Karachi,
+                                        Pakistan and 6 tetra pack milk samples of different brands, regarded as B (B1 –
+                                        B6), collected from
+                                        local markets and supermarket stores. For a comparative analysis, Biochemical
+                                        tests were
+                                        performed to determine the presence of various possible adulterants in both milk
+                                        types. Biochemical
+                                        tests include detection of urea, pulverized soap, salt, starch, sugar, formalin,
+                                        skim. milk, catalase,
+                                        and acidity% or lactic acid% (LA%). A positive and negative control was made on.
+                                        ultimate pure fresh buffalo milk for each test. Analysis of results was done on
+                                        the appearance of
+                                        intensity of colors in each test. Urea, Sugar, formalin and skim milk were
+                                        highly detected in tetra
+                                        pack milk samples whereas no or non-distinctive detection was made in fresh milk
+                                        samples. LA%
+                                        determines the bacterial load in the milk, value more than 0.14 is not
+                                        considered as a healthy LA%.
+                                        The LA% of all 6 tetra packs was more than 0.14% and only 6 out of 25 fresh milk
+                                        samples gives
+                                        reading in that limit otherwise the rest 20 samples were in the safe limit (0.12
+                                        – 0.14%).
+                                        The presence of salt (specifically chlorides) was checked, and ambiguous results
+                                        were obtained.
+                                        The detection of remaining tests; starch, catalase and pulverized soap was
+                                        negative in all fresh milk
+                                        and tetra pack milk samples. It was concluded from the present study that raw
+                                        buffalo milk is better
+                                        than tetra pack milk as it is highly adulterated with different hazardous
+                                        chemicals which may cause
+                                        serious health issues.
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
+                                    <h6 style="color: #112269;">milk analysis, buffalo milk, different brands,
+                                        adulteration test.</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
             <div class="row mt-4 mb-4">
                 <div class="col-4">
                     <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
@@ -870,6 +1188,78 @@
                                     <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
                                     <h6 style="color: #112269;">Biodegradable, Substrates, Edible, Environmental
                                         Sustainability</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-4">
+                    <div style="max-height: 600px; overflow-y: auto;" class="card p-2"><img
+                            src="fols\dbs\bsbs\sp22\06.jpg" class="card-img-top" alt="..." style="height: 100%;">
+                        <div class="card-body">
+                            <h5 style="color: #D62C1F" class="card-title mb-3">CLONING AND EXPRESSION OF GREEN
+                                FLUORESCENT PROTEIN IN ESCHERICHIA COLI BL21 (DE3) CELLS</h5>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Sadia Saleem</h6>
+                                    <h6 style="color: #112269;">FA19-BSBS-0005</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Yamna Hassan</h6>
+                                    <h6 style="color: #112269;">SP19-BSBS-0031</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Supervisor</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #112269; font-weight: bold;">Bushra Bilal</h6>
+                                    <h6 style="color: #112269;">(Bushra.bilal@jinnah.edu)</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Abstract</h6>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 justified">
+                                    <p class="card-text text-justify">Green Florence protein (GFP) is a luminous protein
+                                        in the Jellyfish (Aequorea Victoria). GFP is known for its unique character of
+                                        emitting the green color light when it comes in the contact with the Blue UV
+                                        range light. In this project,
+                                        we have cloned the gene present for the GFP and transferred it in to the
+                                        competent cell of the BL21 strain of bacteria E. coli (Escherichia coli).
+                                        Initially,
+                                        we grew the BL21 using the LB Broth (Luria Bertani) further in SOB broth (Super
+                                        Optimal Broth) to get the sufficient amount of the cells for transformation.
+                                        Then,
+                                        for getting the competent cell we treated the bacterial cell with CaCl2 and
+                                        MgCl2. we inserted the plasmid containing the ligated gene of GFP and
+                                        transformed the bacteria using the heat shock method for cloning. Later,
+                                        the transformed colonies were grown in the SOC media containing the antibiotics
+                                        to remove contaminations. This study can be used for the applied biology.
+                                        Specially,
+                                        in the field of health biotechnology GFP protein can be used for imaging the
+                                        whole organism,
+                                        protein fusion,
+                                        or for gene expression studies or can be used for tagging different
+                                        protein-based products. </p>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <div class="col-12 text-center">
+                                    <h6 style="color: #D62C1F; font-weight: bold;">Keywords</h6>
+                                    <h6 style="color: #112269;">Green Florence protein (GFP),
+                                        Cloning,
+                                        Transformation of E. coli,
+                                        Aequorea Victoria</h6>
                                 </div>
                             </div>
                         </div>

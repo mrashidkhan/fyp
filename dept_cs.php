@@ -119,6 +119,7 @@
         <form method="post">
   <label for="semester">Select Semester:</label>
   <select id="semester" name="semester">
+    <option value="FA22" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'FA22') echo 'selected'; ?>>FA22</option>
     <option value="SP21" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP21') echo 'selected'; ?>>SP21</option>
     <option value="SP22" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
     
