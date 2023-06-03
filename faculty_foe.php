@@ -4,6 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MAJU FYP Projects</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
     
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -29,7 +37,7 @@
                                     <h5 class="card-title">ELECTRICAL AND COMPUTER ENGINEERING</h5>
                                     <p class="card-text">The Department of Electrical and Computer Engineering strives to shape the future of
                                         technology by providing innovative and practical education to students</p>
-                                    <a href="faculty_computing.php" class="btn btn-primary">ELECTRICAL AND COMPUTER ENGINEERING Projects</a>
+                                    <a href="dept_eece.php" class="btn btn-primary">ELECTRICAL AND COMPUTER ENGINEERING Projects</a>
                                 </div>
 
 

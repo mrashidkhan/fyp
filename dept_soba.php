@@ -4,6 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MAJU FYP Projects</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
   <!-- <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -122,6 +130,8 @@
           <select id="semester" name="semester">
             <option value="fa21"
               <?php if(isset($_POST['semester']) && $_POST['semester'] == 'fa21') echo 'selected'; ?>>FA21</option>
+            <option value="sp22"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'sp22') echo 'selected'; ?>>SP22</option>
             <option value="fa22"
               <?php if(isset($_POST['semester']) && $_POST['semester'] == 'fa22') echo 'selected'; ?>>FA22</option>
 
@@ -139,7 +149,7 @@
             <ul class="tabs">
               <li><a href="#program1" class="active">BBA</a></li>
               <li><a href="#program2">MBA</a></li>
-              <li><a href="#program3">BSAF</a></li>
+              <!-- <li><a href="#program3">BSAF</a></li> -->
             </ul>
             <div class="tab-content active" id="program1">
               <!-- Display projects for Program 1 -->

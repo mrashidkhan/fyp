@@ -4,6 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MAJU FYP Projects</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
   <!-- <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -121,8 +129,8 @@
           <label for="semester">Select Semester:</label>
           <select id="semester" name="semester">
             
-            <option value="SP22"
-              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
+              <option value="FA22"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'FA22') echo 'selected'; ?>>FA22</option>
 
           </select>
           <input type="submit" value="Go">
@@ -130,7 +138,7 @@
 
 
         <br> <br>
-        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP22'; ?>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'FA22'; ?>
 
         <div class="col-12">
           <!-- HTML for tabbed interface -->

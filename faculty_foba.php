@@ -4,6 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MAJU FYP Projects</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display  Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
     <!-- <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -33,7 +41,7 @@
 
     <?php 
     $faculty = "Faculty of Business Administration";
-    // $department = "School of Business Administration";
+    $department = "School of Business Administration";
     include 'faculty_navigation.php'; ?>
 
     <div class="container mt-4 mb-5">
@@ -51,7 +59,7 @@
                                 principles and practices through our Faculty of Business Administration.</p>
                             <div class="row centered">
                                                                
-                                <div class="col"><a href="dept_soba.php" class="btn btn-primary">View Projects</a> </div>
+                                <div class="col"><a href="dept_soba" class="btn btn-primary">View Projects</a> </div>
                                 
                             </div>
                         </div>

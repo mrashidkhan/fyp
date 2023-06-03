@@ -4,6 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MAJU FYP Projects</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
+
     <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -87,7 +96,7 @@
 
                 <div class="col-12 col-md-2">
                     <div class="logo">
-                        <a href="index.php"> <img src="maju.png" alt="MAJU Logo">
+                        <a href="index"> <img src="maju.png" alt="MAJU Logo">
                         </a>
                         <h6 style="color:#D62C1F ">Live, Learn and Be Inspired</h6>
                     </div>
@@ -101,7 +110,7 @@
                 </div>
                 <div class="col-12 col-md-2 mt-3">
                     <div class="logo">
-                        <a href="index.php"> <img src="oric.jpg" alt="ORIC Logo">
+                        <a href="index"> <img src="oric.jpg" alt="ORIC Logo">
                         </a>
                         <h6 style="color:#D62C1F ">Live, Learn and Be Inspired</h6>
                     </div>
@@ -124,10 +133,10 @@
                         FACULTY OF BUSINESS ADMINISTRATION
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="dept_soba.php">SCHOOL OF BUSINESS ADMINISTRATION</a></li>
+                        <li><a class="dropdown-item" href="dept_soba">SCHOOL OF BUSINESS ADMINISTRATION</a></li>
                         <!-- <li><a class="dropdown-item" href="dept_soba_sp22.php">SCHOOL OF BUSINESS ADMINISTRATION SP22
                                 PROJECTS</a></li> -->
-                        <li><a class="dropdown-item" href="dept_doms.php">DEPARTMENT OF MANAGEMENT SCIENCES</a></li>
+                        <li><a class="dropdown-item" href="dept_doms">DEPARTMENT OF MANAGEMENT SCIENCES</a></li>
 
                     </ul>
                 </li>
@@ -137,7 +146,7 @@
                         FACULTY OF COMPUTING
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="faculty_computing.php">COMPUTER SCIENCE</a></li>
+                        <li><a class="dropdown-item" href="dept_cs">COMPUTER SCIENCE</a></li>
                     </ul>
                 </li>
 
@@ -147,17 +156,17 @@
                         FACULTY OF ENGINEERING
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">ELECTRICAL AND COMPUTER ENGINEERING</a></li>
+                        <li><a class="dropdown-item" href="dept_eece">ELECTRICAL AND COMPUTER ENGINEERING</a></li>
                     </ul>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="dept_bs.php" id="navbarDropdown" role="button"
+                    <a class="nav-link dropdown-toggle" href="dept_bs" id="navbarDropdown" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
                         FACULTY OF LIFE SCIENCES
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="dept_bs.php">BIOSCIENCES</a></li>
+                        <li><a class="dropdown-item" href="dept_bs">BIOSCIENCES</a></li>
                     </ul>
                 </li>
 
@@ -168,7 +177,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">ECONOMICS</a></li>
-                        <li><a class="dropdown-item" href="#">PSYCHOLOGY</a></li>
+                        <li><a class="dropdown-item" href="dept_dophsy">PSYCHOLOGY</a></li>
                         <li><a class="dropdown-item" href="#">BASIC SCIENCES</a></li>
                     </ul>
                 </li>

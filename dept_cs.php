@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MAJU FYP Projects</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+  <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+  <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+  <meta property="og:image" content="maju.png">
+  <meta property="og:url" content="https://fyp.maju.edu.pk">
+
   <!-- <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -99,7 +108,7 @@
   <?php 
     $faculty = "Faculty of Computing";
     $department = "Department of Computer Science";
-    // $term = "SP22";
+    
     include 'navigation.php'; ?>
 
   <div class="container mt-4">
@@ -117,19 +126,19 @@
           <input type="submit" value="Go">
         </form> -->
         <form method="post">
-  <label for="semester">Select Semester:</label>
-  <select id="semester" name="semester">
-    <option value="FA22" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'FA22') echo 'selected'; ?>>FA22</option>
-    <option value="SP21" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP21') echo 'selected'; ?>>SP21</option>
-    <option value="SP22" <?php if(isset($_POST['semester']) && $_POST['semester'] == 'SP22') echo 'selected'; ?>>SP22</option>
-    
-  </select>
-  <input type="submit" value="Go">
-</form>
+          <label for="semester">Select Semester:</label>
+          <select id="semester" name="semester">
+            <option value="FA22"
+              <?php if(isset($_POST['semester']) && $_POST['semester'] == 'FA22') echo 'selected'; ?>>FA22</option>
+
+
+          </select>
+          <input type="submit" value="Go">
+        </form>
 
 
         <br> <br>
-        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'SP21'; ?>
+        <?php $semester = isset($_POST['semester']) ? $_POST['semester'] : 'FA22'; ?>
 
         <div class="col-12">
           <!-- HTML for tabbed interface -->

@@ -4,6 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MAJU FYP Projects</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+    <meta property="og:title" content="Muhammad Ali Jinnah University Projects">
+    <meta property="og:description" content="This website is build to display Muhammad Ali Jinnah University Projects">
+    <meta property="og:image" content="maju.png">
+    <meta property="og:url" content="https://fyp.maju.edu.pk">
     <!-- <style>
         .navbar-nav li a {
             color: #D62C1F;
@@ -55,7 +63,7 @@
                                     <h5 class="card-title">DEPARTMENT OF PSYCHOLOGY</h5>
                                     <p class="card-text">Fostering critical thinking and promoting social responsibility
                                         through a multidisciplinary approach to education.</p>
-                                    <a href="#" class="btn btn-primary">Psychology Projects</a>
+                                    <a href="dept_dophsy.php" class="btn btn-primary">Psychology Projects</a>
                                 </div>
 
 
@@ -70,10 +78,10 @@
                                 <img src="foba.jpg" class="card-img-top" alt="...">
 
                                 <div class="card-body">
-                                    <h5 class="card-title">DEPARTMENT OF BASIC SCIENCES</h5>
+                                    <h5 class="card-title">DEPARTMENT OF SOCIAL SCIENCES</h5>
                                     <p class="card-text">Empowering future leaders with a solid foundation in business
                                         principles and practices through our Faculty of Business Administration.</p>
-                                    <a href="#" class="btn btn-primary">Basic Sciences Projects</a>
+                                    <a href="#" class="btn btn-primary">Social Sciences Projects</a>
                                 </div>
 
                             </div>
